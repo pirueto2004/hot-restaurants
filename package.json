@@ -1,0 +1,24 @@
+{
+  "name": "hot-restaurants",
+  "version": "1.0.0",
+  "description": "Node / Express based web application for handling restaurant reservation requests.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pirueto2004/hot-restaurants.git"
+  },
+  "author": "Julio Bell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pirueto2004/hot-restaurants/issues"
+  },
+  "homepage": "https://github.com/pirueto2004/hot-restaurants#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.0"
+  }
+}
